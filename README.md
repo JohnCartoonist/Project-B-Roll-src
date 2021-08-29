@@ -1,4 +1,4 @@
-This src is fucked up and it probably wont build because I'm an imbecile and its badly setup
+This source code is fucked up and it probably won't build because I'm an imbecile and its badly setup
 
 <!-- Remember to mirror your changes to the code block in the COPYRIGHT file, and make sure to not mess up the pattern lol -->
 <!-- Credits belong in asset_credits -->
