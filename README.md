@@ -1,5 +1,4 @@
-this src is wack and it probably wont build because its badly setup but w/e
-remember to look at `README.jpg`
+this src is wack and it probably wont build because its badly setup
 
 <!-- Remember to mirror your changes to the code block in the COPYRIGHT file, and make sure to not mess up the pattern lol -->
 <!-- Credits belong in asset_credits -->
