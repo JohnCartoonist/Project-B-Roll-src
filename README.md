@@ -1,4 +1,4 @@
-This source code is wacked and it probably won't build because I'm an imbecile and it's badly setup. I'd argue
+This source code is wacked and it probably won't build because I'm an imbecile and it's badly set up. I'd argue
 it's best that you don't build this source code, but you might find some use of its assets.
 
 <!-- Remember to mirror your changes to the code block in the COPYRIGHT file, and make sure to not mess up the pattern lol -->
