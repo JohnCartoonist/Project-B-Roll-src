@@ -1,5 +1,7 @@
-This source code is wacked and it probably won't build because I'm an imbecile and it's badly set up. I'd argue
-it's best that you don't build this source code, but you might find some use of its assets.
+This source code is broken and as a result, it won't build. I apologize for the inconvenience. Another thing, 
+I had no involvement in the development of this ROM hack. I was present in the official Discord server at 
+some point (which has long since been deleted), but I made no impact in its development. I am simply archiving 
+this source code for preservation and nothing more. Thank you for understanding.
 
 <!-- Remember to mirror your changes to the code block in the COPYRIGHT file, and make sure to not mess up the pattern lol -->
 <!-- Credits belong in asset_credits -->
