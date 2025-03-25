@@ -1,7 +1,8 @@
 This source code is broken and as a result, it won't build. I apologize for the inconvenience. Another thing, 
 I had no involvement in the development of this ROM hack. I was present in the official Discord server at 
-some point (which has long since been deleted), but I made no impact in its development. I am simply archiving 
-this source code with the goal of preserving it and nothing more. Thank you for understanding.
+some point (which has long since been deleted), but I made no impact in its development, and I made no impact
+in its development because I was never part of the development team. I am simply archiving this source code
+with the goal of preserving it and nothing more. Thank you for understanding.
 
 <!-- Remember to mirror your changes to the code block in the COPYRIGHT file, and make sure to not mess up the pattern lol -->
 <!-- Credits belong in asset_credits -->
